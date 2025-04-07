@@ -1,7 +1,0 @@
-<<<<<<< Updated upstream
-Updated textfile.txt on first-branch
-
-Updated textfile.txt on second-branch
-=======
-lorem ipsum
->>>>>>> Stashed changes
